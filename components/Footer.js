@@ -2,7 +2,7 @@ function Footer(props) {
     return <>
         <footer>
             <a
-                href="https://github.com/ProSavage/ur-a-cutie"
+                href=""
                 target="_blank"
                 rel="noopener noreferrer"
             >

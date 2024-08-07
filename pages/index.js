@@ -30,12 +30,12 @@ export default function Home() {
   return (
     <div className={`container ${dark ? "dark" : ""}`}>
       <Head>
-        <title>Hey Cutie</title>
+        <title>Hey Mushi</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <h1 className="title">Hi, Cutie 🥧!</h1>
+        <h1 className="title">Hi, Mushi 🥧!</h1>
 
         <p className="description">Hope you're having a great day!</p>
         <div className="toggle-container">

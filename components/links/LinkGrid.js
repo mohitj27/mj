@@ -4,21 +4,21 @@ function LinkGrid() {
 
   const links = [
     {
-      title: "MTG List",
-      description: "Useful list of mtg cards.",
-      link: "https://gatherer.wizards.com/Pages/Default.aspx",
+      title: "Youtube",
+      description: "see this playlist",
+      link: "https://www.youtube.com/watch?v=ot0n01IxZxg&list=RDot0n01IxZxg&start_radio=1",
     },
     {
-      title: "Pics of Archie",
+      title: "Pics of Us",
       description: "Feeling Down? Check these.",
-      link: "https://www.icloud.com/sharedalbum/#B0OGWZuqDJpPvsa",
+      link: "https://photos.google.com/share/AF1QipMX1oIiWswwXukE9bWB7tk2a2nibCqYPGEThj_BhjqOUasNKbCjdobCfVxEZgywZg?key=Y0Q3THhjOGF0N1NTNTVvc1NRdlp0MldLOUVvdkZR",
     },
     {
-      title: "Doordash",
+      title: "Zomato",
       description: "Hungry? Feeling Lazy? Check this.",
-      link: "https://doordash.com"
-    }
-  ]
+      link: "https://www.zomato.com/ncr/delivery",
+    },
+  ];
 
 
   return <><div className="grid">
